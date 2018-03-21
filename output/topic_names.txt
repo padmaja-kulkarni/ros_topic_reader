@@ -1,0 +1,4 @@
+['/turtle1/color_sensor', 'turtlesim/Color']
+['/rosout', 'rosgraph_msgs/Log']
+['/rosout_agg', 'rosgraph_msgs/Log']
+['/turtle1/pose', 'turtlesim/Pose']
